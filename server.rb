@@ -38,7 +38,7 @@ def downsample(canvas)
 end
 
 def find_offset(size, dimension)
-  (size - dimension) / 2.0
+  (size - dimension) / 2
 end
 
 def normalize_pixels(canvas)
