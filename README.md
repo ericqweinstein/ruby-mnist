@@ -2,7 +2,7 @@ MNIST Ruby Demo
 ===============
 
 ## About
-The MNIST Ruby demo is a Ruby application I built for a talk presented at the [RubyConf 2016](http://rubyconf.org/program#prop_58) that classifies handwritten digits based on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/). Much is owed to [Geoff Buesing](https://github.com/gbuesing/mnist-ruby-test), whose work I encountered during my research.
+The MNIST Ruby demo is a Ruby application I built for a talk presented at [RubyConf 2016](http://rubyconf.org/program#prop_58) that classifies handwritten digits based on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/). Much is owed to [Geoff Buesing](https://github.com/gbuesing/mnist-ruby-test), whose work I encountered during my research.
 
 The front end is written using [React](https://facebook.github.io/react/) + ES6, which is _super_ overkill, but was fun to do.
 
